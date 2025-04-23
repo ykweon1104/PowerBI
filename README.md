@@ -1,1 +1,1 @@
-Power BI Visualization of Expense Analysis with sample data
+Expense Analysis Visualization in Power BI (Using Sample Data)
